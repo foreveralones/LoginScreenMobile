@@ -27,7 +27,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About This Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align="center">
+  <img src="images/screenshot.gif" alt="Product GIF" width="auto" height="500">
+</p>
 
 A small module, which contains the Splash Screen part and the Login Screen part, the company's applications that need these screens, must follow the model presented in this repository.
 
@@ -56,4 +58,3 @@ Profile Link: [https://github.com/foreveralones](https://github.com/foreveralone
 [issues-url]: https://github.com/foreveralones/LoginScreenMobile/issues
 [license-shield]: https://img.shields.io/github/license/foreveralones/LoginScreenMobile.svg?style=for-the-badge
 [license-url]: https://github.com/foreveralones/LoginScreenMobile/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.gif
