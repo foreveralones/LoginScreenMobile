@@ -3,7 +3,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -57,4 +56,4 @@ Profile Link: [https://github.com/foreveralones](https://github.com/foreveralone
 [issues-url]: https://github.com/foreveralones/LoginScreenMobile/issues
 [license-shield]: https://img.shields.io/github/license/foreveralones/LoginScreenMobile.svg?style=for-the-badge
 [license-url]: https://github.com/foreveralones/LoginScreenMobile/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.gif
