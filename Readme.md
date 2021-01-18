@@ -13,7 +13,7 @@
     <img src="images/logo.png" alt="Logo" width="174" height="120">
   </a>
 
-  <h3 align="center">XSTI Android Projects templates</h3>
+  <h3 align="center">Capelari's Android Projects templates</h3>
 
   <p align="center">
     A set of project repositories in android studio, with standards to be followed in the company's android apps.
@@ -28,7 +28,8 @@
 ## About This Project
 
 <p align="center">
-  <img src="images/screenshot.gif" alt="Product GIF" width="auto" height="500">
+  <img src="images/light_mode.gif" alt="Product Light Theme GIF" width="auto" height="500">
+  <img src="images/dark_mode.gif" alt="Product Dark Theme GIF" width="auto" height="500">
 </p>
 
 A small module, which contains the Splash Screen part and the Login Screen part, the company's applications that need these screens, must follow the model presented in this repository.

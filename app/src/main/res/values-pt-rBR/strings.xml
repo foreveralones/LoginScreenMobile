@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">LoginScreenMobile</string>
-    <string name="welcome_message">Bem-vindo à XSTI</string>
+    <string name="welcome_message">Bem-vindo ao App do Capelari</string>
     <string name="sign_in_to_continue">Entre para continuar</string>
     <string name="password">Senha</string>
     <string name="sign_in">Entrar</string>

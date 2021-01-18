@@ -3,10 +3,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="PrimaryColor">#FFBA1B1B</color>
+    <color name="PrimaryColor">#FF74638A</color>
     <color name="PrimaryColorAcent">@color/PrimaryColor</color>
-    <color name="PrimaryColorDark">#FF7F1715</color>
-    <color name="PrimaryColorLight">#FFBB4141</color>
+    <color name="PrimaryColorDark">#FF5C4089</color>
+    <color name="PrimaryColorLight">#FFCBC5E3</color>
     <color name="SecondaryColor">#FF000000</color>
     <color name="SecondaryColorAcent">#FFFFFFFF</color>
     <color name="SecondaryColorDark">@color/SecondaryColor</color>

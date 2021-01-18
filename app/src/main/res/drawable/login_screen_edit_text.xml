@@ -2,6 +2,7 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_focused="true">
         <shape>
+            <solid android:color="#26FFFFFF" />
             <corners android:radius="8dp" />
             <stroke
                 android:width="2dp"
@@ -11,10 +12,11 @@
 
     <item android:state_focused="false">
         <shape>
+            <solid android:color="#26FFFFFF" />
             <corners android:radius="8dp" />
             <stroke
                 android:width="2dp"
-                android:color="@color/grey_400" />
+                android:color="@color/PrimaryColorLight" />
         </shape>
     </item>
 </selector>
