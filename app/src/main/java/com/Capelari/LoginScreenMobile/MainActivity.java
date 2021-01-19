@@ -1,4 +1,4 @@
-package com.XSTI.LoginScreenMobile;
+package com.Capelari.LoginScreenMobile;
 
 import android.app.Activity;
 import android.os.Bundle;

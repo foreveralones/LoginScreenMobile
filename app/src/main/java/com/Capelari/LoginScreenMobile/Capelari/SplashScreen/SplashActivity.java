@@ -1,12 +1,12 @@
-package com.XSTI.LoginScreenMobile.XSTI.SplashScreen;
+package com.Capelari.LoginScreenMobile.Capelari.SplashScreen;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.XSTI.LoginScreenMobile.XSTI.LoginScreen.LoginActivity;
-import com.XSTI.LoginScreenMobile.R;
+import com.Capelari.LoginScreenMobile.Capelari.LoginScreen.LoginActivity;
+import com.Capelari.LoginScreenMobile.R;
 
 public class SplashActivity extends Activity {
     @Override

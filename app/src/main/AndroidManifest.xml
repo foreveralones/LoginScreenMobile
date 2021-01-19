@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.XSTI.LoginScreenMobile">
+    package="com.Capelari.LoginScreenMobile">
 
     <application
         android:allowBackup="true"
@@ -12,7 +12,7 @@
 
         <!-- Splash screen -->
         <activity
-            android:name=".XSTI.SplashScreen.SplashActivity"
+            android:name=".Capelari.SplashScreen.SplashActivity"
             android:theme="@style/AppTheme.SplashScreen"
             android:configChanges="uiMode">
             <intent-filter>
@@ -23,14 +23,14 @@
 
         <!-- Login Screen -->
         <activity
-            android:name="com.XSTI.LoginScreenMobile.XSTI.LoginScreen.LoginActivity"
+            android:name=".Capelari.LoginScreen.LoginActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.LoginScreen">
         </activity>
 
         <!-- Activity Principal -->
         <activity
-            android:name="com.XSTI.LoginScreenMobile.MainActivity"
+            android:name=".MainActivity"
             android:label="@string/app_name" >
         </activity>
     </application>

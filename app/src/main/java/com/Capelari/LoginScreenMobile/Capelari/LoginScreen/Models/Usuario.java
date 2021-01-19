@@ -1,4 +1,4 @@
-package com.XSTI.LoginScreenMobile.XSTI.LoginScreen.Models;
+package com.Capelari.LoginScreenMobile.Capelari.LoginScreen.Models;
 
 public class Usuario {
     private int    USU_CODIGO;

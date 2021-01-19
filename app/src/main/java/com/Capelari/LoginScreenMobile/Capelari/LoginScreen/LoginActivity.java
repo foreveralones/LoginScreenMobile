@@ -1,9 +1,9 @@
-package com.XSTI.LoginScreenMobile.XSTI.LoginScreen;
+package com.Capelari.LoginScreenMobile.Capelari.LoginScreen;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.XSTI.LoginScreenMobile.R;
+import com.Capelari.LoginScreenMobile.R;
 
 public class LoginActivity extends Activity {
     @Override
