@@ -33,6 +33,7 @@
 </p>
 
 A small module, which contains the Splash Screen part and the Login Screen part, the company's applications that need these screens, must follow the model presented in this repository.
+The repositories will always try to follow the same color standards and features, now with Android 10 the models will have support for Light Theme and Dark Theme, as shown in the presentation Gifs.
 
 <!-- ROADMAP -->
 ## Roadmap
