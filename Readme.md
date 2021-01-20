@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/xstisolucoes">
+  <a href="https://github.com/foreveralones">
     <img src="images/logo.png" alt="Logo" width="auto" height="140">
   </a>
 
@@ -18,7 +18,7 @@
   <p align="center">
     A set of project repositories in android studio, with standards to be followed in the company's android apps.
     <br />
-    <a href="https://github.com/xstisolucoes"><strong>Explore the GitHub »</strong></a>
+    <a href="https://github.com/foreveralones"><strong>Explore the GitHub »</strong></a>
     <br />
     <br />
   </p>
